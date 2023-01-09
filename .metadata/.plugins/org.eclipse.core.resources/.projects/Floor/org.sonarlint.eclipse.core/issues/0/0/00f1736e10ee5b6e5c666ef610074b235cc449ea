@@ -1,0 +1,9 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Έ¦„ϋÿÿÿÿHRMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®ΐ‚8Θα―Χ0HΤRMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ύχυ΅8Θα―Χ0HΦRMINORZ
+CODE_SMELL

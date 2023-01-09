@@ -1,0 +1,21 @@
+
+Љ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(жЮ»ЏыяяяяHГRMINORZ
+CODE_SMELL
+W
+java:S2629F"$Invoke method(s) only conditionally.(бЮн‚8хШТ™Ц0HИRMAJORZ
+CODE_SMELL
+\
+java:S26296"$Invoke method(s) only conditionally.(ЦчЖєъяяяя8хШТ™Ц0HЗRMAJORZ
+CODE_SMELL
+V
+java:S2629-"$Invoke method(s) only conditionally.(М°юD8ЏЉ—Ц0HЕRMAJORZ
+CODE_SMELL
+\
+java:S2629#"$Invoke method(s) only conditionally.(Ё­Ю„шяяяя8е‘ЊљЦ0HЖRMAJORZ
+CODE_SMELL
+W
+java:S2629N"$Invoke method(s) only conditionally.(§юЌЅ8хШТ™Ц0HДRMAJORZ
+CODE_SMELL
+V
+java:S2629>"$Invoke method(s) only conditionally.(ГЄХ8ЧЩЇЌЧ0HкRMAJORZ
+CODE_SMELL

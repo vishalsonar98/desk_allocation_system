@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.desk.vo;
+
+public class FloorVo {
+
+}

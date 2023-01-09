@@ -1,0 +1,27 @@
+package com.DeskAllocationSystem.floor.vo;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import com.deskAllocationSystem.desk.vo.FloorVo;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Table(name = "desk")
+public class DeskVo {
+
+	@Id
+	private long id;
+	private String sytemConfig;
+	private String extraAccessories;
+	private String zone;
+	private FloorVo floor;
+	
+}

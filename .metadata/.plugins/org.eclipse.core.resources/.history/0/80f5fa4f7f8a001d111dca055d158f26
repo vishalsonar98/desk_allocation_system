@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.desk.entity;
+
+public class FloorEntity {
+
+}

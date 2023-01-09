@@ -1,0 +1,10 @@
+package com.deskAllocationSystem.deskAllocation.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.deskAllocationSystem.deskAllocation.service.DeskAllocationService;
+
+@Service
+public class DeskAllocationServiceImpl implements DeskAllocationService {
+
+}

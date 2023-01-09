@@ -1,0 +1,10 @@
+server.port=8585
+spring.application.name=ZUUL-PROXY
+eureka.client.service-url.default-zone=http://localhost:8761/
+
+zuul.routes.floor.path=/floor-api/**
+zuul.routes.floor.service-id=FLOOR-SERVICE
+zuul.routes.desk.path=/desk-api/**
+zuul.routes.desk.service-id=DESK-SERVICE
+zuul.routes.floor.path=/deskallocation-api/**
+zuul.routes.floor.service-id=DESKALLOCATION-SERVICE

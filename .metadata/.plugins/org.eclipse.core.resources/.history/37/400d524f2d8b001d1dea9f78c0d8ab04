@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.deskAllocation.repositroy;
+
+public interface DeskAllocationRepository {
+
+}

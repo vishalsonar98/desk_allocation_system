@@ -1,0 +1,8 @@
+
+ˆ	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾“•†ýÿÿÿÿ8¡Ü®ˆ×0H¡RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò÷ÇÝþÿÿÿÿHäRMINORZ
+CODE_SMELL
+_
+java:S1602#",Remove useless curly braces around statement(õ‚ÿÎ8é…ªˆ×0H RMINORZ
+CODE_SMELL

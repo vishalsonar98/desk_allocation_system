@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.deskAllocation.entity;
+
+public class DeskAllocationEntity {
+
+}
