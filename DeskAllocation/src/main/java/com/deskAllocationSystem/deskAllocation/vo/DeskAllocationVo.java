@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class DeskAllocationVo {
 
-	private long id;
 	private long userId;
 	private long deskId;
 }

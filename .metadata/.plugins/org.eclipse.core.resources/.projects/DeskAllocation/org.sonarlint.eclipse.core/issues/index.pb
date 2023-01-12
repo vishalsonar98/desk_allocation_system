@@ -31,3 +31,7 @@ Y
 )src/main/resources/application.properties,0\6\06f65155ec73600b9fc5c4dc2883d4bb84d8e284
 ‘
 asrc/main/java/com/deskAllocationSystem/deskAllocation/advice/DeskAllocationExceptionHandling.java,d\b\dbe3323a908d2693813f8c3421dc90a36961db8d
+t
+Dsrc/main/java/com/deskAllocationSystem/deskAllocation/vo/UserVo.java,7\5\75cd901b6361324db553585b9efcf20c7e721650
+x
+Hsrc/main/java/com/deskAllocationSystem/deskAllocation/vo/ResponseVo.java,e\1\e19246b28f9f77fa6017ae6fe4eb18b3d368a601

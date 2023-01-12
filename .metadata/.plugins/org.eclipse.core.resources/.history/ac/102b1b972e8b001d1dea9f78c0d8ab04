@@ -1,6 +1,0 @@
-package com.deskAllocationSystem.deskAllocation.service;
-
-public interface DeskAllocationService {
-
-	
-}

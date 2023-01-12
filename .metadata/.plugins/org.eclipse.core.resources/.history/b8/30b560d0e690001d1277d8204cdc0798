@@ -1,0 +1,26 @@
+package com.deskAllocationSystem.deskAllocation.service.impl;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.deskAllocationSystem.deskAllocation.consumer.DeskConsumer;
+import com.deskAllocationSystem.deskAllocation.consumer.UserConsumer;
+import com.deskAllocationSystem.deskAllocation.service.DeskAllocationService;
+import com.deskAllocationSystem.deskAllocation.vo.DeskAllocationVo;
+
+@Service
+public class DeskAllocationServiceImpl implements DeskAllocationService {
+
+	@Autowired
+	private DeskConsumer deskConsumer;
+	@Autowired
+	private UserConsumer userConsumer;
+	
+	@Override
+	public DeskAllocationVo allocateDesk(long userId, long deskId) {
+		
+		
+		return null;
+	}
+
+}

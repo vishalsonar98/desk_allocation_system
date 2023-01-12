@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.deskAllocation.vo;
+
+public class UserVo {
+
+}

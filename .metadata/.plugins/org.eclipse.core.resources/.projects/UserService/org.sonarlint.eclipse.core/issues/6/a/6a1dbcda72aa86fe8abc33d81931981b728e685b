@@ -1,0 +1,19 @@
+
+u
+java:S3655'"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(±ÃÚğH»RMAJORZBUG
+ƒ
+java:S6204J"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Íô¦ÇúÿÿÿÿH¼RMAJORZ
+CODE_SMELL
+c
+java:S1611J"2Remove the parentheses around the "user" parameter(Íô¦ÇúÿÿÿÿH½RMINORZ
+CODE_SMELL
+‘
+java:S1488J"`Immediately return this expression instead of assigning it to the temporary variable "userDtos".(Íô¦ÇúÿÿÿÿH·RMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊŞíiHºRMINORZ
+CODE_SMELL
+w
+java:S11924"HDefine a constant instead of duplicating this literal "User Id" 3 times.(Ù–´‚H³RCRITICALZ
+CODE_SMELL
+
+java:S3655X"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(•Ú¿ùÿÿÿÿÿ8à¨÷İÙ0HÈRMAJORZBUG

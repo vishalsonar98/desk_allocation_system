@@ -1,5 +1,0 @@
-package com.deskAllocationSystem.deskAllocation.advice;
-
-public class DeskAllocationExceptionHandling {
-
-}

@@ -1,3 +1,18 @@
 
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÕàıüÿÿÿÿHĞRMINORZ
+a
+java:S1481")Remove this unused "user" local variable.(€‰µãıÿÿÿÿ8ˆÌßÙ0HşRMINORZ
+CODE_SMELL
+y
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.ObjectUtils'.(‰úåâüÿÿÿÿ8ˆÌßÙ0H‚RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÕàıüÿÿÿÿH˜RMINORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "desk" local variable.(×áğŸÿÿÿÿÿ8ˆÌßÙ0H€RMINORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "user".(€‰µãıÿÿÿÿ8ˆÌßÙ0HıRMAJORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "desk".(×áğŸÿÿÿÿÿ8ˆÌßÙ0HüRMAJORZ
 CODE_SMELL

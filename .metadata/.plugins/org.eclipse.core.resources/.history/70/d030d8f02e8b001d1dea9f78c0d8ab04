@@ -1,8 +1,0 @@
-package com.deskAllocationSystem.deskAllocation.consumer;
-
-import org.springframework.cloud.openfeign.FeignClient;
-
-@FeignClient("FLOOR-SERVICE")
-public class FloorConsumer {
-
-}

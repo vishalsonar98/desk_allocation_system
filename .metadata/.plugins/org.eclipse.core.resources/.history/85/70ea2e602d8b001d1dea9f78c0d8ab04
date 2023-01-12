@@ -1,7 +1,0 @@
-package com.deskAllocationSystem.deskAllocation.service.impl;
-
-import com.deskAllocationSystem.deskAllocation.service.DeskAllocationService;
-
-public class DeskAllocationServiceImpl implements DeskAllocationService {
-
-}
