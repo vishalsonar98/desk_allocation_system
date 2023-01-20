@@ -19,3 +19,7 @@ w
 Gsrc/main/java/com/example/UserService/advice/userExceptionHandling.java,a\f\afcbe00065b6c96023e120a8a8d758489e47113b
 t
 Dsrc/main/java/com/example/UserService/Controller/UserController.java,3\0\30fd04731fe193eb623f7602938dae08014fe4f5
+t
+Dsrc/main/java/com/example/UserService/Repository/UserRepository.java,2\2\22ea876341f3c75d9aeadd4bbaac0ea98903bf2f
+~
+Nsrc/main/java/com/example/UserService/Exception/DeskAlreadyTakenException.java,b\3\b324118e7984d470d99f8a356fb1103550d1ea8f

@@ -3,12 +3,14 @@ package com.deskAllocationSystem.deskAllocation.advice;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 import com.deskAllocationSystem.deskAllocation.vo.ResponseVo;
 
+import feign.FeignException.BadRequest;
 import feign.FeignException.NotFound;
 
 @RestControllerAdvice
@@ -22,5 +24,12 @@ public class DeskAllocationExceptionHandling {
 		log.error(exception.getMessage());
 		
 		return new ResponseVo(500,"Information not found enter valid user/desk id..","");
+	}
+	
+	@ResponseStatus(code = HttpStatus.BAD_REQUEST)
+	@ExceptionHandler(BadRequest.class)
+	public ResponseVo deskAlreadyTakenException(BadRequest exception){
+		log.error(exception.getMessage());
+		return new ResponseVo(400,"",exception.getMessage());
 	}
 }

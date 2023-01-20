@@ -1,5 +1,10 @@
 
-„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ñFHùRMINORZ
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ñFHRMINORZ
 CODE_SMELL
-}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù×ù×úÿÿÿÿHúRMINORZ
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù×ù×úÿÿÿÿH€RMINORZ
+CODE_SMELL
+n	java:S125%"<This block of commented-out lines of code should be removed.(¨ûÌ®8âËŞŸÛ0HËRMAJORZ
+CODE_SMELL
+
+java:S1128"XRemove this unused import 'com.example.UserService.Exception.DeskAlreadyTakenException'.(§âö·úÿÿÿÿ8âËŞŸÛ0HÏRMINORZ
 CODE_SMELL

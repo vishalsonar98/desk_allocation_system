@@ -1,13 +1,13 @@
 
-…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆáãñHçRMINORZ
+N
+java:S1165	""Make this "fieldName" field final.(”ë¶«H×RMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆáãñHØRMINORZ
 CODE_SMELL
 V
-java:S1165"%Make this "resourceName" field final.(å°·çþÿÿÿÿHèRMINORZ
-CODE_SMELL
-N
-java:S1165	""Make this "fieldName" field final.(”ë¶«HéRMINORZ
+java:S1165"%Make this "resourceName" field final.(å°·çþÿÿÿÿHÙRMINORZ
 CODE_SMELL
 O
 java:S1165
-"#Make this "fieldValue" field final.(³´âÁHêRMINORZ
+"#Make this "fieldValue" field final.(³´âÁHÚRMINORZ
 CODE_SMELL
