@@ -1,0 +1,5 @@
+package com.deskAllocationSystem.deskAllocation.exception;
+
+public class DeskAlreadyTakenException {
+
+}

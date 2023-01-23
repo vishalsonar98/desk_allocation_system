@@ -1,11 +1,3 @@
 
-Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›æ”„þÿÿÿÿH™RMINORZ
-CODE_SMELL
-n	java:S125"<This block of commented-out lines of code should be removed.( ª ×8“•½ŸÛ0H¨RMAJORZ
-CODE_SMELL
-|
-java:S1128"DRemove this unused import 'org.springframework.http.ResponseEntity'.(¶¯ø¦úÿÿÿÿ8“•½ŸÛ0H¬RMINORZ
-CODE_SMELL
-t
-java:S1128"<Remove this unused import 'feign.FeignException.BadRequest'.(‰Í˜Úÿÿÿÿÿ8“•½ŸÛ0H®RMINORZ
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›æ”„þÿÿÿÿHŒRMINORZ
 CODE_SMELL

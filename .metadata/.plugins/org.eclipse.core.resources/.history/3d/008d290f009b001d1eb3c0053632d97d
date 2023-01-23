@@ -1,0 +1,24 @@
+package com.example.UserService.Service;
+
+import java.util.List;
+import java.util.Optional;
+
+import com.example.UserService.Exception.DeskAlreadyTakenException;
+import com.example.UserService.Payload.UserDto;
+
+public interface UserService {
+	
+	
+	UserDto createUser(UserDto user);
+	
+	UserDto updateUser(UserDto user,Long userId);
+	
+	UserDto getUserById(Long userId);
+	
+	List<UserDto> getAllUsers();
+	
+	void deleteUser(Long userId);
+	
+	Optional<UserDto> allocateDeskToUser(long userid,long deskid) throws DeskAlreadyTakenException;
+
+}
